@@ -12,8 +12,7 @@
           self.aka = 'Markkyn'        
      def whoami(self):
           self.year = 2002
-          self.studies = 'university'        
-        
+          self.studies = 'university'
      def skills(self):
         self.mainlanguage = 'python'
         self.learnings = ['pentest', 'C', 'C#']
