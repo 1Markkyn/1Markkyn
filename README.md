@@ -1,5 +1,5 @@
 ###
-![Profile views](https://gpvc.arturio.dev/[1Markkyn])
+![](https://komarev.com/ghpvc/?username=1Markkyn)
 
 <img align="right" width="250rem" src='[https://im.ge/i/902b97f6-40ef-49e0-bbec-d4efe74deb61.WydjCL' alt='Peace Of Ices'>
 
