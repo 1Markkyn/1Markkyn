@@ -49,7 +49,6 @@
   <img width="5" />
   <img src="https://cdn.simpleicons.org/github/181717" height="77" alt="github logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/v/5D87BF" height="77" alt="v logo"  />
 </div>
 
 ###
