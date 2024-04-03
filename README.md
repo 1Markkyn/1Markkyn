@@ -15,6 +15,6 @@
           self.studies = 'university'
      def skills(self):
         self.mainlanguage = 'python'
-        self.learnings = ['pentest', 'C', 'C#']
+        self.learnings = ['pentest', 'C', 'PHP', 'C#']
         
      me = Kynn()
