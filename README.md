@@ -6,15 +6,11 @@
 
 <br clear="both">
 
-<h1 align="center">🔰  Itx Hweb  🔰</h1>
+<h1 align="center">𒉭  Itx Hweb  𒉭</h1>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="888" src="https://github.com/1Markkyn/1Markkyn/assets/165627874/4275c7d2-0be7-416f-a1a6-604d6c382960"  />
-</div>
 
 ###
 
@@ -33,10 +29,6 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="77" alt="csharp logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="77" alt="arduino logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="77" alt="c logo"  />
-  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="77" alt="cplusplus logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="77" alt="css3 logo"  />
@@ -46,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="77" alt="php logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="77" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="77" alt="github logo"  />
   <img width="5" />
 </div>
 
