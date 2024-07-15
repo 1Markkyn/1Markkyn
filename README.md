@@ -53,26 +53,9 @@
 
 ###
 
-<img align="right" height="178" src="https://github.com/1Markkyn/1Markkyn/assets/165627874/617e2276-614f-44f2-9fb9-059c848e106e"  />
-
-###
-
-<img align="left" height="188" src="https://github.com/1Markkyn/1Markkyn/assets/165627874/617e2276-614f-44f2-9fb9-059c848e106e"  />
-
-###
-
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCW55nqP7sz0HWMcjAkw0A5A" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="50" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/1markkyn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="50" alt="instagram logo"  />
-  </a>
   <a href="https://www.twitch.tv/1markkyn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="50" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/sXmxxXt9MD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="50" alt="discord logo"  />
   </a>
   <a href="https://twitter.com/1markkyn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="50" alt="twitter logo"  />
