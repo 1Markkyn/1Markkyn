@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h1 align="center">𒉭  Itx Hweb  𒉭</h1>
+<h1 align="center"></h1>
 
 ###
 
